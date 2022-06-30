@@ -1,0 +1,21 @@
+.h1 {
+    text-align: center;
+}
+.number {
+    margin-top: 4%;
+    margin-left: 45%;
+    display: flex;
+    border-radius: 20%;
+}
+.submit {
+    margin-top: 4%;
+    margin-left: 45%;
+    display: flex;
+    border-radius: 20%;
+    background-color: aqua;
+}
+.submit:hover {
+    background-color: red;
+    color: white;
+    transition: 1s;
+}
